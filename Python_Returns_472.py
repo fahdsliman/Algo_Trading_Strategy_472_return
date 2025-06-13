@@ -1,6 +1,6 @@
 # Load the libraries and data 
 # Import these libraries. Then run the code to ingest price data on TLT.
-import pandas as pd 
+import pandas as pd  
 import numpy as np 
 import matplotlib.pyplot as plt
 import vectorbt as vbt 
