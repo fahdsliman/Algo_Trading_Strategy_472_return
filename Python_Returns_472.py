@@ -7,6 +7,7 @@ import vectorbt as vbt
 import warnings
 warnings.filterwarnings("ignore")
 
+
 # Download historical price data for TLT ETF from Yahoo Finance and extract the closing prices
 
 tlt = vbt.YFData. download(
