@@ -19,6 +19,7 @@ close = tlt.Close
 
 # Generate Signals
 
+
 # Set up empty dataframes to hold trading signals for short and long positions
 
 short_entries = pd.DataFrame.vbt.signals.empty_like(close)
