@@ -12,8 +12,8 @@ warnings.filterwarnings("ignore")
 
 tlt = vbt.YFData. download(
     "TLT",
-    start=" 2004-01-01",
-    end="2024-12-01"
+    start=" 2025-01-01",
+    end="2025-12-01"
 ).get("Close").to_frame()
 close = tlt.Close
 
