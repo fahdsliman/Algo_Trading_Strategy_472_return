@@ -5,7 +5,8 @@ import numpy as np
 import matplotlib.pyplot as plt
 import vectorbt as vbt
 import warnings
-warnings.filterwarnings("ignore")
+warnings.filterwarnings("ignore") 
+
 
 
 
