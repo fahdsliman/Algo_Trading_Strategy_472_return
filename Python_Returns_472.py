@@ -55,6 +55,7 @@ pf = vbt.Portfolio.from_signals(
     freq='1d'
 )
 
+
 pf.stats()
 
 # Generate a plot with the strategy's performance.
